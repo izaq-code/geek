@@ -41,8 +41,6 @@ Alura Geek
 └── README.md        # Arquivo de documentação
 ```
 
-**Observação:** Você deve armazenar as imagens dos produtos localmente na pasta `imgs`. Certifique-se de que o nome do arquivo correspondente à imagem de cada produto esteja corretamente referenciado no código HTML.
-
 ## Como Contribuir
 
 1. Faça um fork do repositório.
